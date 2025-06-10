@@ -88,7 +88,7 @@ EPIC
 
 
 📌 Story with linked test cases:  
-![PP-33](https://github.com/user-attachments/assets/81a10af0-85d2-445e-813f-863536c281ad)
+![PP - 5 _ ReqResApi](https://github.com/user-attachments/assets/f8695c4b-d81f-485a-bdbf-f208d51161ef)
 
 
 📌 Status tracking:  
@@ -120,7 +120,7 @@ EPIC
 ### 👩‍💻 Author
 
 Project by Paulina Wróblewska 💖  
-[GitHub](https://github.com/...) • [LinkedIn](https://linkedin.com/in/...)
+[GitHub]([https://github.com/...](https://github.com/Paulina-Wroblewska)) • [LinkedIn]([https://linkedin.com/in/...](https://www.linkedin.com/in/paulina-wr%C3%B3blewska/))
 
 ---
 
@@ -197,6 +197,22 @@ EPIC
 
 ---
 
+### 🖼️ Example Screenshots
+
+📌 Przykładowe zgłoszenie buga  
+![PP - 66 _ Extra Letters Displayed in Shopping Cart Preview Tooltip](https://github.com/user-attachments/assets/8411352d-08bb-4870-b202-50ae772cdd5c)
+
+
+📌 Historia z podlinkowanymi przypadkami testowymi:
+![PP - 5 _ ReqResApi](https://github.com/user-attachments/assets/e4cb8a90-e4c6-439f-855d-0898d9c3643e)
+
+
+📌 Śledzenie statusów:
+![image](https://github.com/user-attachments/assets/e5d2400c-739d-4342-869f-eb4ad8ee1833)
+
+
+---
+
 ### 🧰 Użyte narzędzia
 
 - **JIRA (Cloud)** – organizacja zadań QA
@@ -220,5 +236,5 @@ EPIC
 ### 👩‍💻 Autor
 
 Project by Paulina Wróblewska 💖  
-[GitHub](https://github.com/...) • [LinkedIn](https://linkedin.com/in/...)
+[GitHub]([https://github.com/...](https://github.com/Paulina-Wroblewska)) • [LinkedIn]([https://linkedin.com/in/...](https://www.linkedin.com/in/paulina-wr%C3%B3blewska/))
 
