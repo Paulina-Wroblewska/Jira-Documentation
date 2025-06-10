@@ -32,6 +32,7 @@ All issues are documented bilingually (ENG/PL) in Word files with screenshots.
 
 ### 🗃️ Structure
 #### 📂 Google Drive / Project Folder Structure
+```
 Portfolio - Jira/
 │
 ├── JIRA - summary [ENG _ PL].docx
@@ -68,16 +69,16 @@ Portfolio - Jira/
 │
 └── Attachments/
     └── [Screenshots Epic from JIRA]
-
+```
 
 #### 🧩 JIRA Task Structure
-
+```
 EPIC
 ├── Bug
 └── Story
   └──  Related Task
     └── Subtask
-
+```
 ---
 
 ### 🖼️ Example Screenshots
@@ -99,7 +100,7 @@ EPIC
 ### 🧰 Tools
 
 - **JIRA (Cloud)** – project tracking, issue linking
-- **Google Drive** – to share  
+- **Google Drive** – for sharing project files 
 - **Snipping Tool** – annotated bug screenshots
 
 ---
@@ -114,7 +115,7 @@ EPIC
 
 ---
 
-**🧷 link: [Google Drive](https://drive.google.com/drive/folders/10FLK0vZ4VOlCdsaf-pJiZ4Q3omD6RO2U?usp=sharing)
+**🧷 link: [View project folder on Google Drive](https://drive.google.com/drive/folders/10FLK0vZ4VOlCdsaf-pJiZ4Q3omD6RO2U?usp=sharing)
  
 ### 👩‍💻 Author
 
@@ -146,7 +147,7 @@ Celem było pokazanie **jak dokumentuję proces testowy i organizuję pracę tes
 
 ### 🗃️ Structure
 #### 📂 Google Drive / Stuktura folderowa 
-
+```
 Portfolio - Jira/
 │
 ├── JIRA - summary [ENG _ PL].docx
@@ -183,23 +184,23 @@ Portfolio - Jira/
 │
 └── Attachments/
     └── [Screenshots Epic from JIRA]
-
+```
 
 #### 🧩 Struktura zgłoszeń w Jirze
-
+```
 EPIC
 ├── Bug
 └── Story
   └──  Related Task
     └── Subtask
-
+```
 
 ---
 
 ### 🧰 Użyte narzędzia
 
 - **JIRA (Cloud)** – organizacja zadań QA
-- **Google Drive** – do udostępnienia
+- **Google Drive** – do udostępnienia plików podglądowych
 - **Snipping Tool** – zrzuty ekranów do raportów
 
 ---
@@ -214,7 +215,7 @@ EPIC
 
 ---
 
-**🧷 link: [Google Drive](https://drive.google.com/drive/folders/10FLK0vZ4VOlCdsaf-pJiZ4Q3omD6RO2U?usp=sharing)
+**🧷 link: [Podgląd projektu na Google Drive](https://drive.google.com/drive/folders/10FLK0vZ4VOlCdsaf-pJiZ4Q3omD6RO2U?usp=sharing)
 
 ### 👩‍💻 Autor
 
